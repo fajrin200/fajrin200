@@ -1,49 +1,59 @@
-# Hi there 👋 , I'm M FAJRIN!
-Hy Gan Saya M Fajrin Mahasiswa yang haus akan ILMU
-### Tools:
+# DOMPU BISA 👋 , I'm M FAJRIN ! 
+Currently I am open to any learning especially in IT as a Mobile Developer, Web Developer and Networking (not GOOD but i am still trying and learn). 
 <p>
-    <img src="https://img.shields.io/badge/OS-MacOS-blue?&logo=apple" />
-    <img src="https://img.shields.io/badge/Code-Swift-blue?&logo=swift" />
-    <img src="https://img.shields.io/badge/IDE-Xcode-blue?&logo=xcode" />
-    <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
     <img src="https://gpvc.arturio.dev/fajrin200" />
 </p>
 
+### Connect with me:
+
+<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+<br>
+<br>
+
+**Languages:**  
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/java/java.png"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code> 
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/kotlin/kotlin.png"></code>
+<code><img height="35" src="https://seeklogo.com/images/D/dart-logo-FDA1939EC4-seeklogo.com.png"></code>
+
+**Code Editors & Tools:**  
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
+<code><img height="35" src="https://resources.jetbrains.com/storage/products/company/brand/logos/IntelliJ_IDEA_icon.png"></code>
+<code><img height="35" src="https://wakatime.com/static/img/editor-icons/android-studio-128.png"></code>
+<code><img height="35" src="https://wakatime.com/static/img/editor-icons/netbeans-128.png"></code>
+<code><img height="35" src="https://wakatime.com/static/img/editor-icons/sql-server-management-studio-128.png"></code>
+<code><img height="35" src="https://wakatime.com/static/img/editor-icons/word-128.png"></code>
+<code><img height="35" src="https://wakatime.com/static/img/editor-icons/powerpoint-128.png"></code>
+<br>
+<br>
+
 ### Stats:
+<img width="45%" align="left" alt="M Fajrin Github Stats" src="https://github-readme-stats.vercel.app/api?username=mfajrin200&show_icons=true&hide_border=true&theme=tokyonight" />
+<img width="38%" align="left" alt="Animation" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mfajrin200&layout=compact&hide_border=true&theme=tokyonight" />
+
+[youtube]: https://www.youtube.com/channel/UCOJrOHbEuUKs2LO3gszmexw
+[instagram]: https://www.instagram.com/mfjrin20_/?hl=id
+[linkedin]: https://www.linkedin.com/in/mfajrin/
+[twitter]: https://www.twitter.com/in/mfajrin/
+[work]: https://www.student.polinema.ac.id/
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
 <details>
  <summary><strong>What i am learning/working on these days</strong></summary>
-    - 🔭 I’m currently working on RPA </br>
-    - 🌱 I’m currently learning Python,SwiftUI and UIKit </br>
-    - 👯 I’m looking to collaborate on Automation Project, Mobile Apps. </br>
-    - 🤔 I’m looking for help with master of programming. hehe </br>
-    - 💬 Ask me about anything.</br>
-    - 📫 How to reach me: <a href="mailto:goodfe@yahoo.com">Email me!</a>  </br>
-    - 😄 Pronouns: He/Him </br>
-    - ⚡ Fun fact: ... </br>
+    - 🔭 I’m currently learn on Malang State Polytechnic  </br>
+    - 💬 Ask me about anything -> <a href="mailto:muhammadfajrin412@gmail.com">Email me!</a> </br>
+    - 📫 How to reach me: <a href="mailto:muhammadfajrin412@gmail.com">Email me!</a>  </br>
 </details>
-<p>
-    <img src="https://github-readme-stats.vercel.app/api?username=bagusfe&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bagusfe&layout=compact" height=180 />
-</p>
-
-### Let's connect!
-<p>
-    <a href="https://bagusfe.id" target="blank"><img src="https://img.shields.io/badge/Website-https://bagusfe.com-green?" /></a>
-    <a href="https://linkedin.fajrin.com" target="blank"><img src="https://img.shields.io/badge/Bagus_Frayoga-30302f?style=flat&logo=linkedin" /></a>
-    <a href="https://medium.com/@bagusfe" target="blank"><img src="https://img.shields.io/badge/Bagus_Frayoga-30302f?style=flat&logo=medium" /></a>
-    <a href="https://tw.bagusfe.com" target="blank"><img src="https://img.shields.io/badge/@bagusfe_-30302f?style=flat&logo=twitter" /></a>
-    <a href="https://www.paypal.me/gewdfe" target="blank"><img src="https://ionicabizau.github.io/badges/paypal.svg" /></a>
-</p>
-
-<!--
-**bagusfe/bagusfe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
