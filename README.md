@@ -33,8 +33,8 @@ Currently I am open to any learning especially in IT as a Mobile Developer, Web 
 <br>
 
 ### Stats:
-<img width="45%" align="left" alt="M Fajrin Github Stats" src="https://github-readme-stats.vercel.app/api?username=mfajrin200&show_icons=true&hide_border=true&theme=tokyonight" />
-<img width="38%" align="left" alt="Animation" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mfajrin200&layout=compact&hide_border=true&theme=tokyonight" />
+<img width="45%" align="left" alt="M Fajrin Github Stats" src="https://github-readme-stats.vercel.app/api?username=fajrin200&show_icons=true&hide_border=true&theme=tokyonight" />
+<img width="38%" align="left" alt="Animation" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fajrin200&layout=compact&hide_border=true&theme=tokyonight" />
 
 [youtube]: https://www.youtube.com/channel/UCOJrOHbEuUKs2LO3gszmexw
 [instagram]: https://www.instagram.com/mfjrin20_/?hl=id
